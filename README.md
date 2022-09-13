@@ -12,10 +12,11 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=java)
 
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Java](https://img.shields.io/badge/-XML-333333?style=flat&logo=java)
+
 ![Dagger](http://img.shields.io/badge/-dagger-333333?style=flat&logo=android)
 ![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
 ![Gradle](http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
