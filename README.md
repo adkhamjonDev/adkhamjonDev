@@ -33,7 +33,7 @@
 Connect with me
 <p align="center">
  
-  <a href="https://t.me/[vonikreus](https://t.me/Adkhamjon_Rakhimov)">
+  <a href="https://t.me/[adkhamjonDev](https://t.me/Adkhamjon_Rakhimov)">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://github.com/adkhamjonDev">
