@@ -26,7 +26,7 @@
 ## Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adkhamjonDev&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adkahmjonDev&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adkhamjonDev&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkhamjonDev&theme=tokyonight" align="center" />
 </p>
 
