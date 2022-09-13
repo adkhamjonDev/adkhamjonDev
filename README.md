@@ -33,7 +33,7 @@
 Connect with me
 <p align="center">
  
-  <a href="https://t.me/[adkhamjonDev](https://t.me/Adkhamjon_Rakhimov)">
+  <a href="https://t.me/[Adkhamjon_Rakhimov](https://t.me/Adkhamjon_Rakhimov)">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://github.com/adkhamjonDev">
@@ -41,7 +41,7 @@ Connect with me
   </a>
 
   <a href="https://www.linkedin.com/in/adkhamjon-rakhimov-4514a9213/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub badge" />
   </a>
  
 </p>
