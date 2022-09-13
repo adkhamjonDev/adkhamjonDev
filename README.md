@@ -30,6 +30,22 @@
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 
+Connect with me
+<p align="center">
+ 
+  <a href="https://t.me/[vonikreus](https://t.me/Adkhamjon_Rakhimov)">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="GitHub badge" />
+  </a>
+  <a href="https://github.com/adkhamjonDev">
+    <img src="https://img.shields.io/github/followers/adkhamjonDev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/adkhamjon-rakhimov-4514a9213/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
+  </a>
+ 
+</p>
+
 ## Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adkhamjonDev&show_icons=true&theme=tokyonight" />
