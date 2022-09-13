@@ -14,8 +14,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Dagger](http://img.shields.io/badge/-dagger-333333?style=flat&logo=android)
 ![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
@@ -29,8 +27,6 @@
 
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Github Stats
 <p align="center">
