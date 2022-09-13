@@ -7,19 +7,31 @@
 - 📫 How to reach me: adkhamjon.rakhimov.dev@gmail.com
 
 ## Tech Stack
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+![Dagger](http://img.shields.io/badge/-dagger-333333?style=flat&logo=android)
+![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
+![Gradle](http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+
+![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+
+![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+
+![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
