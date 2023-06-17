@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on Commercial Projects
 - 🤔 I’m looking for help with Android Hardware tools
-- 📫 How to reach me: adkhamjon.rakhimov.dev@gmail.com
+- 📫 How to reach me: Email: adkhamjon.rakhimov.dev@gmail.com
+-                     Telegram: @Adkhamjon_Rakhimov
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
