@@ -1,7 +1,7 @@
 ### Hi there I am Adkhamjon Rakhimov👋
 
 - 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 Currently learning **iOS Development (Swift, SwiftUI)
 - 👯 I’m looking to collaborate on Commercial Projects
 - 🤔 I’m looking for help with Android Hardware tools
 - 📫 How to reach me: Email: adkhamjon.rakhimov.dev@gmail.com
