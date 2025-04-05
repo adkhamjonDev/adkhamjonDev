@@ -29,6 +29,7 @@
 
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 ## Connect with me
 <p align="center">
