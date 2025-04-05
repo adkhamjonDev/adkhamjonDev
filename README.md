@@ -1,59 +1,76 @@
-### Hi there I am Adkhamjon Rakhimov👋
+# Hi there, I am Adkhamjon Rakhimov 👋
 
-- 🔭 I’m currently working on Android Development
-- 🌱 Currently learning **iOS Development (Swift, SwiftUI)
-- 👯 I’m looking to collaborate on Commercial Projects
-- 🤔 I’m looking for help with Android Hardware tools
-- 📫 How to reach me: Email: adkhamjon.rakhimov.dev@gmail.com
+## About Me
+- 🚀 Android Developer with a passion for building performant mobile apps
+- 📱 Currently expanding into iOS Development (Swift, SwiftUI)
+- 💼 Open to collaborate on Commercial Projects
+- 🔧 Experienced with Android Hardware tools and low-level optimizations
+- 📫 How to reach me: [adhamjon.rakhimov.dev@gmail.com](mailto:adhamjon.rakhimov.dev@gmail.com)
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=java)
 
-![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-![Dagger](http://img.shields.io/badge/-dagger-333333?style=flat&logo=android)
-![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
-![Gradle](http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+### Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
-![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+### Android Architecture & Libraries
+![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3DDC84?style=for-the-badge)
+![Multi Module](https://img.shields.io/badge/Multi_Module-3DDC84?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge)
+![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-3DDC84?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-3DDC84?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-3DDC84?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-3DDC84?style=for-the-badge)
+![LiveData](https://img.shields.io/badge/LiveData-3DDC84?style=for-the-badge)
+![Navigation Component](https://img.shields.io/badge/Navigation_Component-3DDC84?style=for-the-badge)
+![CameraX](https://img.shields.io/badge/CameraX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+### iOS Development
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2C68F4?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftPackageManager](https://img.shields.io/badge/Swift_Package_Manager-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+### Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLDelight](https://img.shields.io/badge/SQLDelight-0095D5?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Connect with me
-<p align="center">
- 
-  <a href="https://t.me/Adkhamjon_Rakhimov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="GitHub badge" />
-  </a>
-  <a href="https://github.com/adkhamjonDev">
-    <img src="https://img.shields.io/github/followers/adkhamjonDev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adkhamjon_Rakhimov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adkhamjon-rakhimov-4514a9213)
 
-  <a href="https://www.linkedin.com/in/adkhamjon-rakhimov-4514a9213/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub badge" />
-  </a>
- 
-</p>
-
-## Github Stats
+## GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adkhamjonDev&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adkhamjonDev&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adkhamjonDev&theme=material" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkhamjonDev&theme=tokyonight" align="center" />
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=adkhamjonDev&&style=flat-square" align="center" height='25px' />
+<img src="https://komarev.com/ghpvc/?username=adkhamjonDev&&style=flat-square" align="center" height='30px' />
 </div> 
