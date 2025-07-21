@@ -5,7 +5,7 @@
 - 📱 Currently expanding into iOS Development (Swift, SwiftUI)
 - 💼 Open to collaborate on Commercial Projects
 - 🔧 Experienced with Android Hardware tools and low-level optimizations
-- 📫 How to reach me: [adhamjon.rakhimov.dev@gmail.com](mailto:adhamjon.rakhimov.dev@gmail.com)
+- 📫 How to reach me: [adkhamjon.rakhimov.dev@gmail.com](mailto:adhamjon.rakhimov.dev@gmail.com)
 
 ## Tech Stack
 
